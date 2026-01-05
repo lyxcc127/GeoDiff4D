@@ -1,7 +1,7 @@
 #  GeoDiff4D
 Official repository for the paper
 
-**GeoDiff4D: Geometry-Aware Diffusion for 4D Head Avatar Reconstruction
+**GeoDiff4D: Geometry-Aware Diffusion for 4D Head Avatar Reconstruction**
 
 <a href='https://lyxcc127.github.io/geodiff4d/'><img src='https://img.shields.io/badge/project page-Green'></a> 
 
