@@ -26,6 +26,8 @@ Awesome concurrent work:
 - [MVP4D](https://github.com/felixtaubner/mvp4d): 360-degree 4D Avatars from a Single Image
 - [Avat3r](https://tobias-kirschstein.github.io/avat3r/): Large Animatable Gaussian Reconstruction Model for High-fidelity 3D Head Avatars
 
+May these excellent works offer help to those in need.
+
 [//]: # ()
 [//]: # (## 📖 Citation)
 
