@@ -3,7 +3,17 @@ Official repository for the paper
 
 **GeoDiff4D: Geometry-Aware Diffusion for 4D Head Avatar Reconstruction**
 
-<a href='https://lyxcc127.github.io/geodiff4d/'><img src='https://img.shields.io/badge/project page-Green'></a> 
+<a href="https://lyxcc127.github.io/homepage/" target="_blank">Chao Xu</a><sup>1</sup>, 
+<a href="https://xiaochen-zhao.netlify.app/" target="_blank">Xiaochen Zhao</a><sup>1</sup>, 
+<a href="https://openreview.net/profile?id=~Xiang_Deng4" target="_blank">Xiang Deng</a><sup>3</sup>, 
+<a href="https://mrtornado24.github.io/" target="_blank">Jingxiang Sun</a><sup>1</sup>,
+<a href="https://suzhuo.github.io/index.html" target="_blank">Zhuo Su</a><sup>2</sup>
+<a href="https://openreview.net/profile?id=~Donglin_Di1" target="_blank">Donglin Di</a><sup>3</sup>
+<a href="https://openreview.net/profile?id=%7EYebin_Liu1" target="_blank">Yebin Liu</a><sup>1</sup>
+
+<sup>1</sup>Tsinghua University, <sup>2</sup>Bytedance, <sup>3</sup>Li Auto
+
+**[[Paper]](https://arxiv.org/abs/2602.24161)** **[[Project Page]](https://lyxcc127.github.io/geodiff4d/)** **[[Citation]](#citation)**
 
 [//]: # (<a href='#citation'><img src='https://img.shields.io/badge/cite-blue'></a>)
 
@@ -27,6 +37,20 @@ Awesome concurrent work:
 - [Avat3r](https://tobias-kirschstein.github.io/avat3r/): Large Animatable Gaussian Reconstruction Model for High-fidelity 3D Head Avatars
 
 May these excellent works offer help to those in need.
+
+## Citation
+
+```tex
+@misc{xu2026geodiff4dgeometryawarediffusion4d,
+      title={GeoDiff4D: Geometry-Aware Diffusion for 4D Head Avatar Reconstruction}, 
+      author={Chao Xu and Xiaochen Zhao and Xiang Deng and Jingxiang Sun and Zhuo Su and Donglin Di and Yebin Liu},
+      year={2026},
+      eprint={2602.24161},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2602.24161}, 
+}
+```
 
 [//]: # ()
 [//]: # (## 📖 Citation)
