@@ -3,15 +3,17 @@ Official repository for the paper
 
 **GeoDiff4D: Geometry-Aware Diffusion for 4D Head Avatar Reconstruction**
 
-<a href="https://lyxcc127.github.io/homepage/" target="_blank">Chao Xu</a><sup>1</sup>, 
+<a href="https://lyxcc127.github.io/homepage/" target="_blank">Chao Xu</a><sup>1,&dagger;</sup>, 
 <a href="https://xiaochen-zhao.netlify.app/" target="_blank">Xiaochen Zhao</a><sup>1</sup>, 
-<a href="https://openreview.net/profile?id=~Xiang_Deng4" target="_blank">Xiang Deng</a><sup>3</sup>, 
+<a href="https://openreview.net/profile?id=~Xiang_Deng4" target="_blank">Xiang Deng</a><sup>1</sup>, 
 <a href="https://mrtornado24.github.io/" target="_blank">Jingxiang Sun</a><sup>1</sup>,
-<a href="https://suzhuo.github.io/index.html" target="_blank">Zhuo Su</a><sup>2</sup>
-<a href="https://openreview.net/profile?id=~Donglin_Di1" target="_blank">Donglin Di</a><sup>3</sup>
-<a href="https://openreview.net/profile?id=%7EYebin_Liu1" target="_blank">Yebin Liu</a><sup>1</sup>
+<a href="https://openreview.net/profile?id=~Donglin_Di1" target="_blank">Donglin Di</a><sup>2</sup>
+<a href="https://suzhuo.github.io/index.html" target="_blank">Zhuo Su</a><sup>1,&ddagger;</sup>
+<a href="https://openreview.net/profile?id=%7EYebin_Liu1" target="_blank">Yebin Liu</a><sup>1，&sect;</sup>
 
-<sup>1</sup>Tsinghua University, <sup>2</sup>Bytedance, <sup>3</sup>Li Auto
+<sup>1</sup>Tsinghua University, <sup>2</sup>Li Auto
+
+<sup>&dagger;</sup> Work done during internship. <sup>&ddagger;</sup> Project leader. <sup>&sect;</sup> Corresponding author.
 
 **[[Paper]](https://arxiv.org/abs/2602.24161)** **[[Project Page]](https://lyxcc127.github.io/geodiff4d/)** **[[Citation]](#citation)**
 
